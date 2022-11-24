@@ -1,5 +1,5 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on open source projects <br>🌱 I’m currently learning ReactJs, Full stack web development <br>💬 Ask me about Node and Express<br>
+# 💫 Myself Prathamesh:
+👯 I am an enthusiastic web developer and looking forward to collaborate on open source projects <br>🌱 I’m currently learning ReactJs, Full stack web development <br>💬 Ask me about Node and Express<br>
 
 
 ## 🌐 Socials:
