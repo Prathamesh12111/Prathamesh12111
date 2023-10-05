@@ -1,6 +1,6 @@
 # 💫 Myself Prathamesh:
 # 💫 About Me:
-👯 I am an enthusiastic web developer and looking forward to collaborate on open source projects<br>💬 Ask me about Node, Express, React
+👯 I am an enthusiastic web developer and looking forward to collaborating on open-source projects<br>💬 Ask me about Node, Express, React
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prat_121/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-nikumbh-a22485246/) 
@@ -19,4 +19,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=Prathamesh12111&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![@prat_121's Holopin board](https://holopin.me/prat_121)](https://holopin.io/@prat_121)
+[![An image of @prat_121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prat_121)](https://holopin.io/@prat_121)
